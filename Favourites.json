@@ -1,1 +1,18 @@
-
+[
+    {
+        "user_id": "1",
+        "turf_id": "1",
+        "is_favourite": true
+    },
+    {
+        "user_id": "1",
+        "turf_id": "2",
+        "is_favourite": true
+    },
+    {
+        "user_id": "1",
+        "turf_id": "3",
+        "is_favourite": false
+    }
+  
+]

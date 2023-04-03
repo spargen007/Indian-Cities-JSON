@@ -1,1 +1,18 @@
-
+[    {        "faq_id": "1",        
+              "ques": "What is TurfNow?",           
+              "ans": "TurfNow is one of the finest online sports booking platforms for all the sports enthusiasts."  },
+ 
+     {        "faq_id": "2",        
+              "ques": " Where is the TurfNow office located?",           
+              "ans": "Khelomore is an online sports platform.\nThe office is located in – 2nd floor, Khil House, Nehru Road, Vile Parle East, Mumbai, Maharashtra 400099"  },
+ 
+     {        "faq_id": "3",        
+              "ques": "How many sports are listed with TurfNow?",           
+              "ans": "TurfNow has all kinds of sports listed with it like cricket, football, basketball, badminton, chess, tennis, martial arts, swimming and you name it."  },
+ 
+     {        "faq_id": "4",        
+              "ques": "  Can I book two or more slots of same game in same venue at a time?",           
+              "ans": "Yes, you can surely do that given that the slots are available.."  }
+ 
+ 
+      ]
